@@ -19,7 +19,7 @@ I am looking for research-oriented RA and Ph.D. positions for **Fall 2027**.
 
 ### Research interests
 
-- Spatio-temporal reasoning and world models
+- Spatio-temporal reasoning
 - Vision–language models for traffic and driving
 - Training-free visual editing and generation
 - Embodied AI in safety-critical environments
@@ -28,8 +28,6 @@ I am looking for research-oriented RA and Ph.D. positions for **Fall 2027**.
 
 - **[PredErase](https://github.com/xiuwk0820-collab/PredErase)** — training-free object-and-effect removal with predictive latent guidance. [[paper](https://arxiv.org/abs/2609.00956)]
 - **[NanoVerse-TSR](https://github.com/xiuwk0820-collab/NanoVerse-TSR)** — contrastive traffic-sign recognition. *IEEE Sensors Journal*, 2026. [[paper](https://doi.org/10.1109/JSEN.2026.3704014)]
-- **LASAR** — spatio-temporal reasoning with a latent cognitive map. *CVPR 2026* (equal contribution). [[paper](https://arxiv.org/abs/2605.16899)] [[code](https://github.com/tangjzh/LASAR)]
-- **[LLH-World-Model](https://github.com/xiuwk0820-collab/LLH-World-Model)** — lightweight long-horizon training for joint-embedding world models.
 
 ### Previously
 
