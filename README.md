@@ -7,7 +7,7 @@ I work on multimodal reasoning, embodied intelligence, and visual generation, wi
 
 I am looking for research-oriented RA and Ph.D. positions for **Fall 2027**.
 
-[Homepage](https://xiuwk0820-collab.github.io/waikit_homepage/)
+[Homepage](https://xiuwk0820.github.io/waikit_homepage/)
 &nbsp;·&nbsp;
 [Google Scholar](https://scholar.google.com/citations?user=vVP7q3AAAAAJ)
 &nbsp;·&nbsp;
@@ -26,8 +26,8 @@ I am looking for research-oriented RA and Ph.D. positions for **Fall 2027**.
 
 ### Selected work
 
-- **[PredErase](https://github.com/xiuwk0820-collab/PredErase)** — training-free object-and-effect removal with predictive latent guidance. [[paper](https://arxiv.org/abs/2609.00956)]
-- **[NanoVerse-TSR](https://github.com/xiuwk0820-collab/NanoVerse-TSR)** — contrastive traffic-sign recognition. *IEEE Sensors Journal*, 2026. [[paper](https://doi.org/10.1109/JSEN.2026.3704014)]
+- **[PredErase](https://github.com/xiuwk0820/PredErase)** — training-free object-and-effect removal with predictive latent guidance. [[paper](https://arxiv.org/abs/2609.00956)]
+- **[NanoVerse-TSR](https://github.com/xiuwk0820/NanoVerse-TSR)** — contrastive traffic-sign recognition. *IEEE Sensors Journal*, 2026. [[paper](https://doi.org/10.1109/JSEN.2026.3704014)]
 
 ### Previously
 
